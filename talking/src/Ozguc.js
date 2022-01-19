@@ -2,7 +2,7 @@ import React from 'react'
 
 
 
-function  Ozguc()  {
+function  ozguc()  {
     return (
         <div>
 
@@ -12,5 +12,5 @@ function  Ozguc()  {
     )
 }
 
-export default  Ozguc;
+export default  ozguc;
 

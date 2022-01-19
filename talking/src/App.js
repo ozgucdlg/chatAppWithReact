@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Ozguc from './Ozguc'
+import ozguc from './ozguc'
 
 function App() {
   return (
@@ -18,11 +18,12 @@ function App() {
         >
           Learn React
         </a>
+        <ozguc />
       </header>
     </div>
   );
 };
 
-<Ozguc />
+
 
 export default App;
